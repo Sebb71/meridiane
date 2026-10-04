@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sebb71.github.io/meridiane/sitemap.xml
