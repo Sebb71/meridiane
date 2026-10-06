@@ -6,8 +6,8 @@
     "foto": "catalogo/foto/meridiana_001.jpg",
     "motto": "",
     "anno fotografia": "2021",
-    "google maps": "",
-    "note": "Nella fotografia non è leggibile con certezza una frase/motto."
+    "google maps": "https://maps.app.goo.gl/2paJanETi9rrtKT39",
+    "note": "Privata."
   },
   {
     "id": 2,
@@ -16,8 +16,8 @@
     "foto": "catalogo/foto/meridiana_002.jpg",
     "motto": "",
     "anno fotografia": "2006",
-    "google maps": "",
-    "note": "Sul quadrante sono visibili anche altre iscrizioni; il motto non è identificabile con sufficiente certezza."
+    "google maps": "https://maps.app.goo.gl/vVn5uP4iNAUj9Ah18",
+    "note": "Privata.Bellissima meridiana con immagini che rappresentano le stagioni: fiori di campo per la primavera, fascio di grano per l'estate, grappoli d'uva per l'autunno, ramoscelli innevati per l'inverno. Sono rappresentati anche i simboli dei segni zodiacali del toro, del cancro e della bilancia.In basso a sinistra si legge il nome di Claudio Gottardi, artista che l'ha realizzata. In basso in centro l'anno di realizzazione 2006."
   },
   {
     "id": 3,
@@ -26,8 +26,8 @@
     "foto": "catalogo/foto/meridiana_003.jpg",
     "motto": "",
     "anno fotografia": "2021",
-    "google maps": "",
-    "note": "La superficie della meridiana non presenta un'iscrizione leggibile nella fotografia."
+    "google maps": "https://maps.app.goo.gl/HVeW2oru8VxP3ueF7",
+    "note": "Privata. Bellissima rappresentazione nella quale sembra che l'eliotropismo del girasole guidi l'ombra proiettata dallo gnomone.Il paesaggio sullo sfondo sembra richiamare il basso lago di Garda e le sue colline moreniche, zone di appartenenza della meridiana."
   },
   {
     "id": 4,
@@ -42,12 +42,12 @@
   {
     "id": 5,
     "comune": "Muscoline",
-    "localita": "",
+    "localita": "Morsone",
     "foto": "catalogo/foto/meridiana_005.jpg",
-    "motto": "Horas Tibi Serenas",
+    "motto": "Horas Tibi Serenas (Le ore ti siano serene)",
     "anno fotografia": "2021",
-    "google maps": "",
-    "note": "È visibile anche l'iscrizione PONAVINI sul cartiglio inferiore."
+    "google maps": "https://maps.app.goo.gl/kmDhnMQdzRdNCJQz9",
+    "note": "È visibile anche l'iscrizione Podavini sul cartiglio inferiore."
   },
   {
     "id": 6,
@@ -56,8 +56,8 @@
     "foto": "catalogo/foto/meridiana_006.jpeg",
     "motto": "",
     "anno fotografia": "2023",
-    "google maps": "45°33'57.1\"N 10°30'34.2\"E - Google Maps",
-    "note": "Motto non leggibile"
+    "google maps": "https://maps.app.goo.gl/Mnxvfc5af2rz7BSD7",
+    "note": "Privata. La linea trasversale obliqua che taglia a metà le linee verticali delle ore indica il percorso dell'ombra nei giorni dei solstizi o degli equinozi"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "motto": "",
     "anno fotografia": "2021",
     "google maps": "https://maps.app.goo.gl/fzzntanqa6mNKqgo8",
-    "note": "Curioso, esposta a nord"
+    "note": "Privata. Non si tratta di una meridiana ma di una bella rappresentazione di un orologio astronomico e astrologico medievale"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "motto": "Son figlia del sol, sebben son ombra",
     "anno fotografia": "2022",
     "google maps": "https://maps.app.goo.gl/3E1oJSUBhFasXZd4A",
-    "note": ""
+    "note": "Privata.Il riquadro separato in basso con una linea a doppia onda serve a correggere l'ora mostrata dall'ombra. Poiché l'orbita della Terra non è un cerchio perfetto, l'ora del sole è in anticipo o in ritardo rispetto agli orologi da polso a seconda del mese dell'anno. Le lettere in basso (G F M A M G L A S O N D) indicano le iniziali dei mesi, da Gennaio a Dicembre."
   },
   {
     "id": 9,
@@ -87,6 +87,6 @@
     "motto": "",
     "anno fotografia": "2026",
     "google maps": "https://maps.app.goo.gl/S1pniRCqH3Ek2Bsk7",
-    "note": "Bellissima meridiana con raffigurati i simboli delle stagioni: natività=inverno, vaso di fiori=primavera, cesto frutta=autunno, covone grano=estate"
+    "note": "Privata. Bellissima meridiana con raffigurati i simboli delle stagioni: natività=inverno, vaso di fiori=primavera, cesto frutta=autunno, covone grano=estate"
   }
 ]
