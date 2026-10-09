@@ -106,5 +106,17 @@
     "anno fotografia": "2026",
     "google maps": "https://maps.app.goo.gl/S1pniRCqH3Ek2Bsk7",
     "note": "Privata. Bellissima meridiana con raffigurati i simboli delle stagioni: natività=inverno, vaso di fiori=primavera, cesto frutta=autunno, covone grano=estate"
+  },
+  {
+    "id": 10,
+    "comune": "Calcinato (BS)",
+    "nome": "Calcinato",
+    "provincia": "BS",
+    "localita": "Calcinatello",
+    "foto": "catalogo/foto/meridiana_010.jpg",
+    "motto": "Dulce Lumen",
+    "anno fotografia": "2026",
+    "google maps": "https://maps.app.goo.gl/P43BA3mjQHvWCG116",
+    "note": "Privata. Il motto (Dolce Luce). Nella tradizione delle meridiane i motti legati alla luce sottolineano spesso la positività del sole affiancata dalla fugacità del tempo. E' un augurio sereno per chi guarda la meridiana."
   }
 ]
