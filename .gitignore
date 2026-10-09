@@ -1,3 +1,5 @@
-catalogo/meridiane.ods
-catalogo/comuni_italiani.csv
-.~lock.*
+   scripts/
+   aggiorna_catalogo.bat
+   catalogo/meridiane.ods
+   catalogo/comuni_italiani.csv
+   .~lock.*
