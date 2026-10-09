@@ -1,10 +1,58 @@
 {
-  "Puegnago": {
-    "lat": 45.5528,
-    "lon": 10.5035
+  "Bedizzole (BS)": {
+    "nome": "Bedizzole",
+    "sigla": "BS",
+    "provincia": "Brescia",
+    "regione": "Lombardia",
+    "lat": 45.510571,
+    "lon": 10.423032
   },
-  "Desenzano del Garda": {
-    "lat": 45.4717,
-    "lon": 10.5377
+  "Desenzano del Garda (BS)": {
+    "nome": "Desenzano del Garda",
+    "sigla": "BS",
+    "provincia": "Brescia",
+    "regione": "Lombardia",
+    "lat": 45.469485,
+    "lon": 10.538947
+  },
+  "Lonato del Garda (BS)": {
+    "nome": "Lonato del Garda",
+    "sigla": "BS",
+    "provincia": "Brescia",
+    "regione": "Lombardia",
+    "lat": 45.461039,
+    "lon": 10.484535
+  },
+  "Muscoline (BS)": {
+    "nome": "Muscoline",
+    "sigla": "BS",
+    "provincia": "Brescia",
+    "regione": "Lombardia",
+    "lat": 45.562485,
+    "lon": 10.461874
+  },
+  "Puegnago del Garda (BS)": {
+    "nome": "Puegnago del Garda",
+    "sigla": "BS",
+    "provincia": "Brescia",
+    "regione": "Lombardia",
+    "lat": 45.565692,
+    "lon": 10.51147
+  },
+  "Serle (BS)": {
+    "nome": "Serle",
+    "sigla": "BS",
+    "provincia": "Brescia",
+    "regione": "Lombardia",
+    "lat": 45.570284,
+    "lon": 10.366071
+  },
+  "Toscolano-Maderno (BS)": {
+    "nome": "Toscolano-Maderno",
+    "sigla": "BS",
+    "provincia": "Brescia",
+    "regione": "Lombardia",
+    "lat": 45.63453,
+    "lon": 10.609521
   }
 }
