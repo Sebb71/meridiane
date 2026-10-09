@@ -8,8 +8,9 @@
     "foto": "catalogo/foto/meridiana_001.jpg",
     "motto": "",
     "anno fotografia": "2021",
-    "google maps": "https://maps.app.goo.gl/2paJanETi9rrtKT39",
-    "note": "Privata."
+    "proprieta": "Privata",
+    "google maps": "",
+    "note": "Meridiana decorativa."
   },
   {
     "id": 2,
@@ -20,8 +21,9 @@
     "foto": "catalogo/foto/meridiana_002.jpg",
     "motto": "",
     "anno fotografia": "2006",
-    "google maps": "https://maps.app.goo.gl/vVn5uP4iNAUj9Ah18",
-    "note": "Privata.Bellissima meridiana con immagini che rappresentano le stagioni: fiori di campo per la primavera, fascio di grano per l'estate, grappoli d'uva per l'autunno, ramoscelli innevati per l'inverno. Sono rappresentati anche i simboli dei segni zodiacali del toro, del cancro e della bilancia.In basso a sinistra si legge il nome di Claudio Gottardi, artista che l'ha realizzata. In basso in centro l'anno di realizzazione 2006."
+    "proprieta": "Privata",
+    "google maps": "",
+    "note": "Bellissima meridiana con immagini che rappresentano le stagioni: fiori di campo per la primavera, fascio di grano per l'estate, grappoli d'uva per l'autunno, ramoscelli innevati per l'inverno. Sono rappresentati anche i simboli dei segni zodiacali del toro, del cancro e della bilancia.In basso a sinistra si legge il nome di Claudio Gottardi, artista che l'ha realizzata. In basso in centro l'anno di realizzazione 2006."
   },
   {
     "id": 3,
@@ -32,8 +34,9 @@
     "foto": "catalogo/foto/meridiana_003.jpg",
     "motto": "",
     "anno fotografia": "2021",
-    "google maps": "https://maps.app.goo.gl/HVeW2oru8VxP3ueF7",
-    "note": "Privata. Bellissima rappresentazione nella quale sembra che l'eliotropismo del girasole guidi l'ombra proiettata dallo gnomone.Il paesaggio sullo sfondo sembra richiamare il basso lago di Garda e le sue colline moreniche, zone di appartenenza della meridiana."
+    "proprieta": "Privata",
+    "google maps": "",
+    "note": "Bellissima rappresentazione nella quale sembra che l'eliotropismo del girasole guidi l'ombra proiettata dallo gnomone.Il paesaggio sullo sfondo sembra richiamare il basso lago di Garda e le sue colline moreniche, zone di appartenenza della meridiana."
   },
   {
     "id": 4,
@@ -44,6 +47,7 @@
     "foto": "catalogo/foto/meridiana_004.jpg",
     "motto": "",
     "anno fotografia": "2021",
+    "proprieta": "Privata",
     "google maps": "",
     "note": "Meridiana decorativa; non è leggibile con certezza un motto."
   },
@@ -56,6 +60,7 @@
     "foto": "catalogo/foto/meridiana_005.jpg",
     "motto": "Horas Tibi Serenas (Le ore ti siano serene)",
     "anno fotografia": "2021",
+    "proprieta": "Pubblica",
     "google maps": "https://maps.app.goo.gl/kmDhnMQdzRdNCJQz9",
     "note": "È visibile anche l'iscrizione Podavini sul cartiglio inferiore."
   },
@@ -68,8 +73,9 @@
     "foto": "catalogo/foto/meridiana_006.jpeg",
     "motto": "",
     "anno fotografia": "2023",
-    "google maps": "https://maps.app.goo.gl/Mnxvfc5af2rz7BSD7",
-    "note": "Privata. La linea trasversale obliqua che taglia a metà le linee verticali delle ore indica il percorso dell'ombra nei giorni dei solstizi o degli equinozi"
+    "proprieta": "Privata",
+    "google maps": "",
+    "note": "La linea trasversale obliqua che taglia a metà le linee verticali delle ore indica il percorso dell'ombra nei giorni dei solstizi o degli equinozi"
   },
   {
     "id": 7,
@@ -80,8 +86,9 @@
     "foto": "catalogo/foto/meridiana_007.jpeg",
     "motto": "",
     "anno fotografia": "2021",
-    "google maps": "https://maps.app.goo.gl/fzzntanqa6mNKqgo8",
-    "note": "Privata. Non si tratta di una meridiana ma di una bella rappresentazione di un orologio astronomico e astrologico medievale"
+    "proprieta": "Privata",
+    "google maps": "",
+    "note": "Non si tratta di una meridiana ma di una bella rappresentazione di un orologio astronomico e astrologico medievale"
   },
   {
     "id": 8,
@@ -92,8 +99,9 @@
     "foto": "catalogo/foto/meridiana_008.jpeg",
     "motto": "Son figlia del sol, sebben son ombra",
     "anno fotografia": "2022",
-    "google maps": "https://maps.app.goo.gl/3E1oJSUBhFasXZd4A",
-    "note": "Privata.Il riquadro separato in basso con una linea a doppia onda serve a correggere l'ora mostrata dall'ombra. Poiché l'orbita della Terra non è un cerchio perfetto, l'ora del sole è in anticipo o in ritardo rispetto agli orologi da polso a seconda del mese dell'anno. Le lettere in basso (G F M A M G L A S O N D) indicano le iniziali dei mesi, da Gennaio a Dicembre."
+    "proprieta": "Privata",
+    "google maps": "",
+    "note": "Il riquadro separato in basso con una linea a doppia onda serve a correggere l'ora mostrata dall'ombra. Poiché l'orbita della Terra non è un cerchio perfetto, l'ora del sole è in anticipo o in ritardo rispetto agli orologi da polso a seconda del mese dell'anno. Le lettere in basso (G F M A M G L A S O N D) indicano le iniziali dei mesi, da Gennaio a Dicembre."
   },
   {
     "id": 9,
@@ -104,8 +112,9 @@
     "foto": "catalogo/foto/meridiana_009.jpeg",
     "motto": "",
     "anno fotografia": "2026",
-    "google maps": "https://maps.app.goo.gl/S1pniRCqH3Ek2Bsk7",
-    "note": "Privata. Bellissima meridiana con raffigurati i simboli delle stagioni: natività=inverno, vaso di fiori=primavera, cesto frutta=autunno, covone grano=estate"
+    "proprieta": "Privata",
+    "google maps": "",
+    "note": "Bellissima meridiana con raffigurati i simboli delle stagioni: natività=inverno, vaso di fiori=primavera, cesto frutta=autunno, covone grano=estate"
   },
   {
     "id": 10,
@@ -116,7 +125,8 @@
     "foto": "catalogo/foto/meridiana_010.jpg",
     "motto": "Dulce Lumen",
     "anno fotografia": "2026",
-    "google maps": "https://maps.app.goo.gl/P43BA3mjQHvWCG116",
-    "note": "Privata. Il motto (Dolce Luce). Nella tradizione delle meridiane i motti legati alla luce sottolineano spesso la positività del sole affiancata dalla fugacità del tempo. E' un augurio sereno per chi guarda la meridiana."
+    "proprieta": "Privata",
+    "google maps": "",
+    "note": "Il motto (Dolce Luce). Nella tradizione delle meridiane i motti legati alla luce sottolineano spesso la positività del sole affiancata dalla fugacità del tempo. E' un augurio sereno per chi guarda la meridiana."
   }
 ]

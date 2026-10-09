@@ -282,6 +282,11 @@ function showDetail(id) {
 
   const meta = [];
   if (isYear(anno)) meta.push(`<div><strong>Anno fotografia:</strong> ${escapeHtml(anno)}</div>`);
+  if (item.proprieta === "Privata") {
+    meta.push(`<div><strong>Proprietà:</strong> Privata — la posizione esatta non è pubblicata</div>`);
+  } else if (item.proprieta === "Pubblica") {
+    meta.push(`<div><strong>Proprietà:</strong> Pubblica</div>`);
+  }
   if (gm && isUrl(gm)) {
     meta.push(`<div><strong>Posizione:</strong> <a href="${escapeHtml(gm)}" target="_blank" rel="noopener noreferrer">Apri in Google Maps ↗</a></div>`);
   } else if (gm && isCoord(gm)) {
