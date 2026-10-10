@@ -128,5 +128,31 @@
     "proprieta": "Privata",
     "google maps": "",
     "note": "Il motto (Dolce Luce). Nella tradizione delle meridiane i motti legati alla luce sottolineano spesso la positività del sole affiancata dalla fugacità del tempo. E' un augurio sereno per chi guarda la meridiana."
+  },
+  {
+    "id": 11,
+    "comune": "Carpenedolo (BS)",
+    "nome": "Carpenedolo",
+    "provincia": "BS",
+    "localita": "",
+    "foto": "catalogo/foto/meridiana_011.jpg",
+    "motto": "L'uomo misura il tempo. Il tempo misura l'uomo",
+    "anno fotografia": "2026",
+    "proprieta": "Privata",
+    "google maps": "",
+    "note": "Meridiana pulita, allo stesso tempo potente nella sua semplicità e nel messaggio che trasmette."
+  },
+  {
+    "id": 12,
+    "comune": "Parma (PR)",
+    "nome": "Parma",
+    "provincia": "PR",
+    "localita": "Palazzo del Governatore",
+    "foto": "catalogo/foto/meridiana_012.jpg",
+    "motto": "",
+    "anno fotografia": "2023",
+    "proprieta": "Pubblica",
+    "google maps": "https://maps.app.goo.gl/VTfzM7THEGHhfjvx5",
+    "note": "A sinistra è visibile l'analemma e l'indicazione dei mesi. A destra si trova la meridiana suddivisa in 2 grafici per le ore antimeridiane e pomeridiane."
   }
 ]

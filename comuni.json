@@ -15,6 +15,14 @@
     "lat": 45.457182,
     "lon": 10.413574
   },
+  "Carpenedolo (BS)": {
+    "nome": "Carpenedolo",
+    "sigla": "BS",
+    "provincia": "Brescia",
+    "regione": "Lombardia",
+    "lat": 45.364606,
+    "lon": 10.429385
+  },
   "Desenzano del Garda (BS)": {
     "nome": "Desenzano del Garda",
     "sigla": "BS",
@@ -38,6 +46,14 @@
     "regione": "Lombardia",
     "lat": 45.562485,
     "lon": 10.461874
+  },
+  "Parma (PR)": {
+    "nome": "Parma",
+    "sigla": "PR",
+    "provincia": "Parma",
+    "regione": "Emilia-Romagna",
+    "lat": 44.801368,
+    "lon": 10.328083
   },
   "Puegnago del Garda (BS)": {
     "nome": "Puegnago del Garda",
