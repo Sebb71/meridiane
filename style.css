@@ -183,3 +183,36 @@ footer { max-width: 900px; margin: auto; padding: 10px 16px 36px; color: var(--m
 .comune-name small { display: block; color: var(--muted); font: 13px Arial, sans-serif; margin-top: 1px; }
 .comuni-list:empty { display: none; }
 .more { margin: 4px 2px 0; }
+
+/* Credito sotto le foto */
+.photo-credit { margin: 6px 0 0; text-align: center; color: var(--muted); font: 12px Arial, sans-serif; }
+
+/* Elenco di tutti i comuni (link alle pagine, utile anche ai motori di ricerca) */
+.all-comuni { margin-top: 26px; font: 14px/1.5 Arial, sans-serif; color: var(--muted); }
+.all-comuni summary { cursor: pointer; min-height: 40px; display: flex; align-items: center; font-weight: 600; }
+.all-comuni ul { list-style: none; margin: 8px 0 0; padding: 0; columns: 2 170px; }
+.all-comuni li { margin: 0; padding: 3px 0; break-inside: avoid; }
+
+/* Mappa: gruppi di marker nei colori del sito */
+.marker-cluster-small, .marker-cluster-medium, .marker-cluster-large { background-color: rgba(180, 107, 49, .35); }
+.marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-large div {
+  background-color: rgba(180, 107, 49, .9); color: #fff; font: 700 13px Arial, sans-serif;
+}
+
+/* Pagine dei comuni (comuni/*.html) */
+.page-title { margin: 0 0 4px; font-size: 32px; font-weight: 500; line-height: 1.1; }
+.sundial-card { margin: 30px 0 0; padding-top: 22px; border-top: 1px solid var(--line); }
+.sundial-card h2 { font-size: 24px; }
+.sundial-figure { margin: 12px -16px 0; background: #ece3d3; }
+.sundial-figure img { display: block; width: 100%; height: auto; max-height: 80vh; object-fit: contain; margin: auto; }
+.sundial-figure figcaption { padding: 6px 16px 0; text-align: center; color: var(--muted); font: 12px Arial, sans-serif; background: var(--paper); }
+.page-cta { margin: 34px 0 0; }
+.cta-btn {
+  display: inline-flex; align-items: center; min-height: 48px; padding: 0 18px;
+  border: 1px solid var(--accent); border-radius: 10px; background: var(--card);
+  font: 600 15px Arial, sans-serif; text-decoration: none;
+}
+@media (min-width: 700px) {
+  .sundial-figure { margin: 12px 0 0; border-radius: 12px; overflow: hidden; }
+  .sundial-figure figcaption { padding-bottom: 6px; }
+}

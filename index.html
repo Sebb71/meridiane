@@ -26,6 +26,8 @@
   </script>
 
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -69,6 +71,11 @@
           <option value="">Scegli un comune…</option>
         </select>
       </section>
+
+      <details class="all-comuni">
+        <summary>Tutti i comuni con meridiane (<span id="all-comuni-count">0</span>)</summary>
+        <ul id="all-comuni-list"></ul>
+      </details>
     </section>
 
     <!-- ===== ELENCO MERIDIANE DI UN COMUNE ===== -->
@@ -92,10 +99,11 @@
   </main>
 
   <footer>
-    <p>Atlante delle Meridiane · Dati e fotografie della collezione personale</p>
+    <p><span id="footer-copy">© 2026 Sebb71</span> · Atlante delle Meridiane — salvo diversa indicazione le fotografie sono dell'autore del sito. Riproduzione vietata senza autorizzazione.</p>
   </footer>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

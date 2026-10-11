@@ -1,5 +1,8 @@
+# File di lavoro: NON vanno su GitHub
 scripts/
 aggiorna_catalogo.bat
+catalogo/foto/
 catalogo/meridiane.ods
 catalogo/comuni_italiani.csv
-~lock.*
+.~lock.*
+__pycache__/
